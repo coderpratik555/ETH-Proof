@@ -24,7 +24,7 @@ contract PratikToken
 {
     //public variables here
     string public tokenName = "Pratik";
-    string public tokenAbbrivation = "Bnerjee";
+    string public tokenAbbrivation = "Banerjee";
     uint public totalSupply = 0;
 
     //mapping variable here
